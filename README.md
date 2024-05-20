@@ -1,14 +1,13 @@
 # Цифровой Прорыв 2024 (УрФО)
 
 *ГНУ МИСИС team*
+(Презентация в репозитории)
 
 Team Members:
 1) **Груздев Александр** - ML Engineer
 2) **Рыжичкин Кирилл** - ML Engineer, Backend
 3) **Миронов Егор** - Frontend, Backend
 4) **Москвин Владимир** - Product Manager & Designer
-
-Презентация: [link](https://drive.google.com/)
 
 Frontend: https://gnu-misis.streamlit.app/
 
